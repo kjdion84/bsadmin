@@ -13,15 +13,15 @@
 <body>
 
 <nav class="navbar navbar-expand navbar-dark bg-primary">
-    <a class="sidebar-toggle text-light mr-3"><i class="fas fa-bars"></i></a>
+    <a class="sidebar-toggle text-light mr-3"><i class="fa fa-bars"></i></a>
 
-    <a class="navbar-brand" href="#"><i class="fas fa-code-branch"></i> Navbar</a>
+    <a class="navbar-brand" href="#"><i class="fa fa-code-branch"></i> Navbar</a>
 
     <div class="navbar-collapse collapse">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown">
-                    <i class="fas fa-user"></i> Username
+                    <i class="fa fa-user"></i> Username
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="#">Action</a>
@@ -35,10 +35,10 @@
 <div class="d-flex align-items-stretch">
     <nav class="sidebar bg-dark">
         <ul class="list-unstyled">
-            <li><a href="#"><i class="fas fa-fw fa-link"></i> Sidebar Link</a></li>
-            <li><a href="#"><i class="fas fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
             <li>
-                <a href="#submenu1" data-toggle="collapse"><i class="fas fa-fw fa-address-card"></i> Dropdown Link</a>
+                <a href="#submenu1" data-toggle="collapse"><i class="fa fa-fw fa-address-card"></i> Dropdown Link</a>
                 <ul id="submenu1" class="list-unstyled collapse">
                     <li><a href="#">Submenu Item</a></li>
                     <li><a href="#">Submenu Item</a></li>
@@ -46,15 +46,15 @@
                 </ul>
             </li>
             <li>
-                <a href="#submenu2" data-toggle="collapse"><i class="fas fa-fw fa-address-card"></i> Dropdown Link 2</a>
+                <a href="#submenu2" data-toggle="collapse"><i class="fa fa-fw fa-address-card"></i> Dropdown Link 2</a>
                 <ul id="submenu2" class="list-unstyled collapse">
                     <li><a href="#">Submenu Item</a></li>
                     <li><a href="#">Submenu Item</a></li>
                     <li><a href="#">Submenu Item</a></li>
                 </ul>
             </li>
-            <li><a href="#"><i class="fas fa-fw fa-angle-right"></i> Sidebar Link</a></li>
-            <li><a href="#"><i class="fas fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-angle-right"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
         </ul>
     </nav>
 
