@@ -1,3 +1,11 @@
+This CSS & JS library uses Bootstrap 4 + FontAwesome 5 to create a simple admin template with a collapsing & responsive sidebar.
+
+# Usage
+
+Include `bsadmin.css` & `bsadmin.js` in your code, and see the example below.
+
+**Make sure to include all other dependencies shown in the example.**
+
 # Example
 
 ```
