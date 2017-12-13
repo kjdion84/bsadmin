@@ -33,7 +33,7 @@
 </nav>
 
 <div class="d-flex align-items-stretch">
-    <div class="sidebar bg-dark">
+    <nav class="sidebar bg-dark">
         <ul class="list-unstyled">
             <li><a href="#"><i class="fas fa-fw fa-link"></i> Sidebar Link</a></li>
             <li><a href="#"><i class="fas fa-fw fa-link"></i> Sidebar Link</a></li>
@@ -56,7 +56,7 @@
             <li><a href="#"><i class="fas fa-fw fa-angle-right"></i> Sidebar Link</a></li>
             <li><a href="#"><i class="fas fa-fw fa-link"></i> Sidebar Link</a></li>
         </ul>
-    </div>
+    </nav>
 
     <div class="content p-4">
         <h1 class="display-5 mb-4">Hello, world!</h1>
