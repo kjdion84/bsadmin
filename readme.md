@@ -8,6 +8,8 @@ Include `bsadmin.css` & `bsadmin.js` in your code, and see the example below.
 
 # Example
 
+![Imgur](https://i.imgur.com/19HJji3.png)
+
 ```
 <!doctype html>
 <html lang="en">
