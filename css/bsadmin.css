@@ -6,7 +6,8 @@
 }
 
 .sidebar {
-    flex: 0 0 250px;
+    min-width: 250px;
+    max-width: 250px;
     min-height: calc(100vh - 56px);
     transition: all 0.3s;
 }
@@ -45,8 +46,7 @@
 }
 
 .content {
-    flex: 0 0 auto;
-    flex-grow: 1;
+    width: 100%;
 }
 
 .display-5 {

@@ -32,7 +32,7 @@
     </div>
 </nav>
 
-<div class="d-flex align-items-stretch">
+<div class="d-flex">
     <nav class="sidebar bg-dark">
         <ul class="list-unstyled">
             <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
@@ -54,6 +54,17 @@
                 </ul>
             </li>
             <li><a href="#"><i class="fa fa-fw fa-angle-right"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
+            <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
             <li><a href="#"><i class="fa fa-fw fa-link"></i> Sidebar Link</a></li>
         </ul>
     </nav>
