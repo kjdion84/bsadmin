@@ -1,0 +1,23 @@
+{
+  "name": "bsadmin",
+  "homepage": "https://github.com/nucklehead/bsadmin",
+  "description": "",
+  "main": "",
+  "authors": [
+    "kjdion84"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.8",
+    "popper.js": "^1.12.9"
+  }
+}
