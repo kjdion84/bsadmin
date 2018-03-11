@@ -1,0 +1,24 @@
+{
+  "name": "bsadmin",
+  "homepage": "https://github.com/nucklehead/bsadmin",
+  "description": "This CSS & JS library uses Bootstrap 4 + FontAwesome 5 to create a simple admin template with a collapsing & responsive sidebar",
+  "version": "0.0.1",
+  "main": "",
+  "authors": [
+    "kjdion84"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.8",
+    "popper.js": "^1.12.9"
+  }
+}
